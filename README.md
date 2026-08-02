@@ -14,20 +14,15 @@ Backend Developer | MERN Stack | Java | AI Enthusiast
 
 ## 👨‍💻 About Me
 
-🎓 Computer Science Engineering Student at **MS Ramaiah Institute of Technology**
+🎓 B.E. Computer Science & Engineering student at M S Ramaiah Institute of Technology (CGPA: 9.19/10).
 
-💼 Software Engineer Intern at **Yuga Yatra Retail**
+💼 Former Software Engineer Intern at Yuga Yatra Retail (OPC) Pvt. Ltd., where I developed scalable backend modules for LinkCab using Node.js, Express.js, and MongoDB.
 
-💻 Passionate Backend Developer
+🚀 Passionate about backend development, RESTful APIs, database design, and building AI-enabled web applications.
 
-🌱 Currently learning
+💻 Skilled in Java, Node.js, Express.js, MongoDB, MySQL, JavaScript, Git, and Postman.
 
-- System Design
-- Docker
-- Redis
-- AWS
-
-🚀 Love building scalable backend applications.
+🧩 Strong foundation in Data Structures & Algorithms, OOP, DBMS, Operating Systems, and Computer Networks.
 
 ---
 
